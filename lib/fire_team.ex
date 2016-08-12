@@ -1,0 +1,2 @@
+defmodule FireTeam do
+end
